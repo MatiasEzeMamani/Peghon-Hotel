@@ -22,4 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-backend/PeghonHotel/src/main/resources/application.properties
